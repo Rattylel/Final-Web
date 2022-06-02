@@ -1,0 +1,14 @@
+
+        body {
+            background-image: url("./VideoAndImg/tawantosang.png");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            
+        }
+        main{
+text-align: center;
+        }
+        header{
+                text-align: center;
+        }
